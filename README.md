@@ -66,7 +66,7 @@ Pesos Mexicanos ↔ Dólares Estadounidenses
 ### Windows
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/casa-cambio-mxn-usd.git
+git clone https://github.com/Angelcuevas010101/casa-cambio-mxn-usd.git
 cd casa-cambio-mxn-usd
 
 # Instalar dependencias
@@ -82,7 +82,7 @@ python casa_cambio_mobile.py
 ### Linux/macOS
 ```bash
 # Clonar e instalar
-git clone https://github.com/tu-usuario/casa-cambio-mxn-usd.git
+git clone https://github.com/Angelcuevas010101/casa-cambio-mxn-usd.git
 cd casa-cambio-mxn-usd
 pip3 install -r requirements.txt
 
@@ -229,10 +229,10 @@ Angel Cuevas
 
 ## 📈 Estadísticas del Proyecto
 
-![GitHub repo size](https://img.shields.io/github/repo-size/tu-usuario/casa-cambio-mxn-usd)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tu-usuario/casa-cambio-mxn-usd)
-![GitHub top language](https://img.shields.io/github/languages/top/tu-usuario/casa-cambio-mxn-usd)
-![GitHub last commit](https://img.shields.io/github/last-commit/tu-usuario/casa-cambio-mxn-usd)
+![GitHub repo size](https://img.shields.io/github/repo-size/Angelcuevas010101/casa-cambio-mxn-usd)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Angelcuevas010101/casa-cambio-mxn-usd)
+![GitHub top language](https://img.shields.io/github/languages/top/Angelcuevas010101/casa-cambio-mxn-usd)
+![GitHub last commit](https://img.shields.io/github/last-commit/Angelcuevas010101/casa-cambio-mxn-usd)
 
 ## ⭐ Si te gusta el proyecto
 
@@ -247,9 +247,9 @@ También puedes:
 
 **¿Encontraste útil este proyecto?**
 
-[![GitHub stars](https://img.shields.io/github/stars/tu-usuario/casa-cambio-mxn-usd?style=social)](https://github.com/tu-usuario/casa-cambio-mxn-usd/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/tu-usuario/casa-cambio-mxn-usd?style=social)](https://github.com/tu-usuario/casa-cambio-mxn-usd/network/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/tu-usuario/casa-cambio-mxn-usd?style=social)](https://github.com/tu-usuario/casa-cambio-mxn-usd/watchers)
+[![GitHub stars](https://img.shields.io/github/stars/tu-usuario/casa-cambio-mxn-usd?style=social)](https://github.com/Angelcuevas010101/casa-cambio-mxn-usd/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/tu-usuario/casa-cambio-mxn-usd?style=social)](https://github.com/Angelcuevas010101/casa-cambio-mxn-usd/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/tu-usuario/casa-cambio-mxn-usd?style=social)](https://github.com/Angelcuevas010101/casa-cambio-mxn-usd/watchers)
 
 **Desarrollado con ❤️ en México 🇲🇽**
 
