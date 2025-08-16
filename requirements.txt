@@ -1,0 +1,21 @@
+# Dependencias para versión Desktop (CustomTkinter)
+customtkinter>=5.2.0
+requests>=2.28.0
+urllib3>=1.26.0
+certifi>=2022.0.0
+
+# Dependencias para versión Móvil (Kivy)
+kivy>=2.1.0
+kivy[base]>=2.1.0
+
+# Para compilar ejecutables
+pyinstaller>=5.0.0
+
+# Para compilar APK (solo Linux)
+buildozer>=1.4.0
+cython>=0.29.0
+
+# Dependencias opcionales para desarrollo
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0
